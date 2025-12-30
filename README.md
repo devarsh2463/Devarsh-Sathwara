@@ -12,4 +12,4 @@ My name is Devarsh Sathwara. Bsc.IT Student<br><br>I enjoy building practical pr
 ---
 [![](https://visitcount.itsvg.in/api?id=devarsh2463&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># Devarsh-Sathwara
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
