@@ -101,6 +101,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/devarsh2463/devarsh2463/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/devarsh2463/Devarsh-Sathwara/blob/output/github-snake-dark.svg)
 
 ###
